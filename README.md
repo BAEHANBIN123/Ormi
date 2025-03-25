@@ -41,6 +41,7 @@
 
 ---
 ---
+<br>
 
 ### 3. 공지사항 관리
 - **관리자 전용**: 관리자만 접근 가능한 공지사항 관리 페이지 제공  <br>
@@ -54,11 +55,13 @@
 
 **[관리자 공지사항 생성/수정/삭제]**  
 > 관리자 공지사항 페이지: 등록된 공지사항 목록 확인, 신규 작성, 내용 수정, 삭제 가능  <br>
+
 <img src="https://github.com/user-attachments/assets/d60e171a-ddb3-4eb0-a623-a11c10a22c33" alt="관리자 공지사항 생성/수정/삭제" style="width:70%;" /><br><br><br><br>
 <br><br><br><br>
 
 **[일반 회원 공지사항 접근]**  
 > 일반 회원: 공지사항을 확인하고, 댓글이나 좋아요 등으로 의견을 남길 수 있습니다 <br>
+
 <img src="https://github.com/user-attachments/assets/0f57ba01-49d9-4fd9-a7ee-29660898bafc" alt="일반 회원 공지사항 접근" style="width:70%;" /><br><br><br><br>
 <br><br><br><br>
 
