@@ -18,21 +18,25 @@
 ### 2. 로그인 및 회원가입
 - **관리자, 일반 회원** 모두 개별 로그인 페이지 제공  
 - **BCrypt**를 이용한 안전한 암호화 및 로그인 검증  (구현예정)
-- 회원가입 시 **아이디, 비밀번호, 이름, 생년월일, 이메일, 전화번호**  정보 입력
+- 회원가입 시 **아이디, 비밀번호, 이름, 생년월일, 이메일, 전화번호**  정보 입력<br>
 
 ---
 
 **[관리자 로그인]**
-> 관리자 로그인: 관리자 전용 계정으로 시스템 내 모든 기능을 제어할 수 있습니다.
-![관리자 로그인](https://github.com/user-attachments/assets/e15c6263-e2ce-4577-88d4-3864083756f8)
+> 관리자 로그인: 관리자 전용 계정으로 시스템 내 모든 기능을 제어할 수 있습니다.<br>
+<img src="https://github.com/user-attachments/assets/e15c6263-e2ce-4577-88d4-3864083756f8" alt="관리자 로그인" style="width:70%;" />
+<br><br><br><br>
 
 **[일반 회원 로그인]**  
-> 일반 회원 로그인: 등반자 및 일반 사용자를 위한 로그인 페이지입니다.
-![일반회원 로그인](https://github.com/user-attachments/assets/904b1a73-be11-49b5-bd02-5c07e5b1025a)
+> 일반 회원 로그인: 등반자 및 일반 사용자를 위한 로그인 페이지입니다.<br>
+<img src="https://github.com/user-attachments/assets/904b1a73-be11-49b5-bd02-5c07e5b1025a" alt="일반회원 로그인" style="width:70%;" />
+<br><br><br><br>
+
 
 **[회원가입]**  
-> 회원가입: 필요한 정보를 입력하고, 비밀번호를 설정하여 가입 완료
-![회원가입](https://github.com/user-attachments/assets/1dab542a-1bc6-4f54-8b64-cc857897c1a5)
+> 회원가입: 필요한 정보를 입력하고, 비밀번호를 설정하여 가입 완료<br>
+<img src="https://github.com/user-attachments/assets/1dab542a-1bc6-4f54-8b64-cc857897c1a5" alt="회원가입" style="width:70%;" />
+<br><br><br><br>
 
 
 ---
